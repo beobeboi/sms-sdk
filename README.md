@@ -2,7 +2,7 @@
 PHP Sdk for FPT
 Run:
 
-    composer require diagvn/sms-sdk
+    composer require beobeboi/sms-sdk
 
 # 2. Config
 
